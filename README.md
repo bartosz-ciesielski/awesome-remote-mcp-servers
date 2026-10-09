@@ -1216,6 +1216,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [Polish Company Financials (Compabase)](https://github.com/ContentWriterco/Polish-Company-Financials-MCP) `https://compabase.com/api/mcp/financials`
+  [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
+  🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
+- [Polish KYB (Compabase)](https://github.com/ContentWriterco/Polish-KYB-MCP) `https://compabase.com/api/mcp/kyb`
+  [![Polish KYB (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-kyb/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-kyb)
+  🔓 - Know-your-business checks for Polish companies: KRS profile, owners, insolvency, court gazette and sanctions lists.
+- [Polish Public Tenders (Compabase)](https://github.com/ContentWriterco/Polish-Public-Tenders-MCP) `https://compabase.com/api/mcp/tenders`
+  [![Polish Public Tenders (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-public-tenders/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-public-tenders)
+  🔓 - Polish public procurement: open and awarded BZP and TED tenders, buyers, contractors and EU funds.
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
