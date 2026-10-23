@@ -1513,7 +1513,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Korean tide times for 42 stations plus fishing, mudflat, beach, surf and scuba forecasts.
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
   [![Powietrze PL (powietrze-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp)
-  🔓 - Air quality in Poland: live GIOŚ station measurements (PM2.5, PM10, NO2, O3) with the Polish index, smog warnings, 3-day CAMS forecast and pollen.
+  🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
