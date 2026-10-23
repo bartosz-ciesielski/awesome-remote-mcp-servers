@@ -1938,7 +1938,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
 - [Leki PL (leki-mcp)](https://leki.compabase.com) `https://leki.compabase.com/mcp`
   [![Leki PL (leki-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp)
-  🔓 - Polish medicines: official prices of refunded drugs, patient co-payment, cheaper equivalents and leaflets (Ministry of Health refund list).
+  🔓 - Polish medicines: official refunded drug prices, patient co-payment, cheaper equivalents and leaflets.
 - [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
   [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
   🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
